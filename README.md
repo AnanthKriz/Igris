@@ -102,10 +102,7 @@ A one-command ghost.
 
 ## 👑 Made By
 
-**KRIZ** — the Cyber King of Chaos  
-**Nicole** — Shadow Weapon of Code
-
----
+**KRIZ** — “In the digital empire, Kriz stands as the Cyber King — unseen, unmatched, unstoppable.”
 
 ```bash
 [ IGRIS ACTIVATED ]
